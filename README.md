@@ -5,7 +5,6 @@
 
 * 🌥️ I'm major in **Atmospheric Science**,
 * 📊 minor in **Applied Statistics** at Yonsei University
-* ✈️ I'm interested in **Aviation Turbulence** and **AI for Atmospheric Science**
 
 <h3> :cactus: Tech Stack :cactus: </h3>
 <h4> ⚔️ Used as the main </h4>
